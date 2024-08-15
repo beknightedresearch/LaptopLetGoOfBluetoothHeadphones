@@ -1,0 +1,1 @@
+Stop-ScheduledTask -TaskName "Disconnect headphones when lid closed"
