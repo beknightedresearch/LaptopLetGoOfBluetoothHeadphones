@@ -22,4 +22,4 @@ Known limitations:
 The disconnect task does not always run immediately after closing the lid, probably due to modern standby.
 If the headphones are power-cycled, however, the task usually runs at that point, allowing the headphones to be connected to another device.
 
-The restartBluetooth script cycles the Bluetooh to off and then back on when a user logs in. Without it, the headphones disconnected can not be reconnected to the laptop. Currently, the Bluetooth is always on after a user logs in.
+The restartBluetooth script cycles the Bluetooth to off and then back on when a user logs in. Without it, the headphones disconnected can not be reconnected to the laptop. Currently, the Bluetooth is always on after a user logs in.
